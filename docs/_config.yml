@@ -1,0 +1,121 @@
+url:                   https://theroboticsclub.github.io/gsoc2021-Arkajyoti_Basak
+baseurl:               '/gsoc2021-Arkajyoti_Basak'
+lang:                  en
+title:                 GSoC 2021 Arkajyoti Basak
+logo:                  /assets/icons/logo.png
+menu:
+  - title:             Abstract
+    url:               /abstract/
+  - title:             About
+    url:               /about/
+  - title:             Blog
+    url:               /
+permalink:             /:categories/:year-:month-:day-:title/
+paginate:              5
+paginate_path:         /page-:num/
+accent_image:          /assets/img/cover.jpg
+accent_color:          rgb(65,170,220)
+theme_color:           rgb(65,170,220)
+google_fonts:          Roboto+Slab:400|Noto+Sans:400,400i,700,700i
+font:                  Noto Sans, Helvetica, Arial, sans-serif
+font_heading:          Roboto Slab, Helvetica, Arial, sans-serif
+defaults:
+  - scope:
+      type:            projects
+    values:
+      seo:
+        type:          WebPage
+  - scope:
+      type:            featured_categories
+    values:
+      seo:
+        type:          WebPage
+  - scope:
+      type:            featured_tags
+    values:
+      seo:
+        type:          WebPage
+hydejack:
+  post_addons:         []
+  project_addons:      []
+  no_google_fonts:     false
+  no_mark_external:    true
+  no_push_state:       false
+  no_drawer:           false
+  no_img:              false
+  no_inline_css:       false
+  no_page_style:       false
+  no_break_layout:     false
+  no_structured_data:  false
+  no_theme_color:      false
+  use_lsi:             false
+  cookies_banner:      false
+  advertise:           false
+  dark_mode:
+    always:            false
+    dynamic:           true
+    sunrise:           6
+    sunset:            18
+    icon:              true
+  offline:
+    enabled:           false
+    cache_version:     1
+collections:
+  featured_categories:
+    permalink:         /:name/
+    output:            true
+  featured_tags:
+    permalink:         /tag-:name/
+    output:            true
+  projects:
+    permalink:         /projects/:path/
+    output:            true
+exclude:
+  - vendor
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - package.json
+  - package-lock.json
+  - webpack.config.js
+  - "*.gemspec"
+  - _js
+  - _plugins
+  - .sass-cache
+plugins:
+  - jekyll-default-layout
+  - jekyll-feed
+  - jekyll-optional-front-matter
+  - jekyll-paginate
+  - jekyll-readme-index
+  - jekyll-redirect-from
+  - jekyll-relative-links
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-titles-from-headings
+# theme: jekyll-theme-hydejack
+remote_theme: qwtel/hydejack@v8.4.0
+optional_front_matter:
+  remove_originals:    true
+readme_index:
+  remove_originals:    true
+  with_frontmatter:    true
+relative_links:
+  collections:         true
+titles_from_headings:
+  strip_title:         true
+  collections:         true
+kramdown:
+  footnote_backlink:   '&#x21a9;&#xfe0e;'
+  math_engine:         mathjax
+  math_engine_opts:
+    preview:           true
+    preview_as_code:   true
+compress_html:
+  comments:            ["<!-- ", " -->"]
+  clippings:           all
+  endings:             all
+  ignore:
+    envs:              [development]
+sass:
+  style:               compressed

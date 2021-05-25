@@ -1,0 +1,10 @@
+# The primary author of this blog.
+# Change `author1` to your shortname.
+author1:
+
+  # Social media icons in sidebar
+  # Comment/uncommet to show/hide
+  # Rearrange to change the order in which they appear
+  social:
+    github:          TheRoboticsClub/gsoc2021-Arkajyoti_Basak
+    email:           arkajbasak1211@gmail.com
