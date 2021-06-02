@@ -1,7 +1,30 @@
-body { 
-    text-align: justify; 
+body {
+    text-align: justify;
   }
 
 .content a:not(.btn), .font-active h1, .font-active h2, .font-active h3, .font-active h4, .font-active h5, .font-active h6, .font-active .h1, .font-active .h2, .font-active .h3, .font-active .h4, .font-active .h5, .font-active .h6, .font-active .heading {
       font-weight: bold;
   }
+
+blockquote > p:last-child {
+    color: rgb(0, 0, 0);
+}
+
+p {
+    color: rgb(0, 0, 0);
+}
+
+.video_container {
+    position: relative;
+    width: 100%;
+    height: 0;
+    padding-bottom: 56.25%;
+}
+
+.video {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
