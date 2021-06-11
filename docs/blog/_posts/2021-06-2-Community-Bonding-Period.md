@@ -3,8 +3,7 @@ layout: post
 title: Community Bonding Period
 ---
 
-# Community Bonding Period (Running)
-
+# Community Bonding Period
 > *The period of time between when accepted students are announced and the time these students are expected to start coding. This time is an excellent one to introduce students to the community, get them on the right mailing lists, working with their mentors on their timeline for the summer, etc.* [1](https://developers.google.com/open-source/gsoc/resources/glossary#community_bonding_period)
 
 
