@@ -17,3 +17,4 @@ title: Progress
 | | [1042](https://github.com/JdeRobot/RoboticsAcademy/issues/1042)| [Position-Control] Web based RADI-v2.4 | [1043](https://github.com/JdeRobot/RoboticsAcademy/pull/1043)|
 | Week 3 | [126](https://github.com/JdeRobot/drones/issues/126)| Add a new model "ocean" | [127](https://github.com/JdeRobot/drones/pull/127), [128](https://github.com/JdeRobot/drones/pull/128)|
 | | [1056](https://github.com/JdeRobot/RoboticsAcademy/issues/1056)| [RADI-2.4] Add web-template of Rescue People exercise | [1057](https://github.com/JdeRobot/RoboticsAcademy/pull/1057)|
+| Week 4 | [1061](https://github.com/JdeRobot/RoboticsAcademy/issues/1061)| [noetic] Update the drone exercises in RADI-noetic | [1075](https://github.com/JdeRobot/RoboticsAcademy/pull/1075)|
