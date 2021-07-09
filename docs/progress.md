@@ -18,3 +18,6 @@ title: Progress
 | Week 3 | [126](https://github.com/JdeRobot/drones/issues/126)| Add a new model "ocean" | [127](https://github.com/JdeRobot/drones/pull/127), [128](https://github.com/JdeRobot/drones/pull/128)|
 | | [1056](https://github.com/JdeRobot/RoboticsAcademy/issues/1056)| [RADI-2.4] Add web-template of Rescue People exercise | [1057](https://github.com/JdeRobot/RoboticsAcademy/pull/1057)|
 | Week 4 | [1061](https://github.com/JdeRobot/RoboticsAcademy/issues/1061)| [noetic] Update the drone exercises in RADI-noetic | [1075](https://github.com/JdeRobot/RoboticsAcademy/pull/1075)|
+| Week 5 | [1099](https://github.com/JdeRobot/RoboticsAcademy/issues/1099)| [noetic] Store the output of the drones launch.py for debugging purposes | [1100](https://github.com/JdeRobot/RoboticsAcademy/pull/1100)|
+| | [1121](https://github.com/JdeRobot/RoboticsAcademy/issues/1121)| [drone-cat-mouse] Add automatic evaluators | [1124](https://github.com/JdeRobot/RoboticsAcademy/pull/1124)|
+| | [1096](https://github.com/JdeRobot/RoboticsAcademy/issues/1096)| [RADI] Connection closed automatically after a while of the stablishment | [1110](https://github.com/JdeRobot/RoboticsAcademy/pull/1110)|
