@@ -21,3 +21,6 @@ title: Progress
 | Week 5 | [1099](https://github.com/JdeRobot/RoboticsAcademy/issues/1099)| [noetic] Store the output of the drones launch.py for debugging purposes | [1100](https://github.com/JdeRobot/RoboticsAcademy/pull/1100)|
 | | [1121](https://github.com/JdeRobot/RoboticsAcademy/issues/1121)| [drone-cat-mouse] Add automatic evaluators | [1124](https://github.com/JdeRobot/RoboticsAcademy/pull/1124)|
 | | [1096](https://github.com/JdeRobot/RoboticsAcademy/issues/1096)| [RADI] Connection closed automatically after a while of the stablishment | [1110](https://github.com/JdeRobot/RoboticsAcademy/pull/1110)|
+| Week 6 | [1141](https://github.com/JdeRobot/RoboticsAcademy/issues/1141)| [noetic] Improve manager-3.1.py | [1142](https://github.com/JdeRobot/RoboticsAcademy/pull/1142)|
+| | [1145](https://github.com/JdeRobot/RoboticsAcademy/issues/1145)| [gh-pages] Add youtube links to the web-template teaser videos inside the webpages of Follow Road, Drone Gymkhana and Visual Lander | [1146](https://github.com/JdeRobot/RoboticsAcademy/pull/1146)|
+| | [1154](https://github.com/JdeRobot/RoboticsAcademy/issues/1154)| [gh-pages] Add youtube links to the web-template teaser videos inside the webpages of Follow Turtlebot and Drone Cat Mouse | [1155](https://github.com/JdeRobot/RoboticsAcademy/pull/1155)|
